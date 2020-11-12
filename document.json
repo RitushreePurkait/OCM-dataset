@@ -26,10 +26,11 @@
     "Install time": [
       "2 minutes"
     ],
-    "Language": [
+    "Type": [
       "S3",
       "Dataset"
     ],
+    "Tag": [ "S3" ],
     "categories": [
       "General",
       "Housing"
